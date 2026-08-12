@@ -1,7 +1,0 @@
-streamlit
-streamlit-webrtc
-streamlit-autorefresh
-opencv-contrib-python-headless
-av
-numpy
-Pillow
