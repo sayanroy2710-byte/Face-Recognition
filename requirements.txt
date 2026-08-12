@@ -1,0 +1,7 @@
+streamlit
+streamlit-webrtc
+streamlit-autorefresh
+opencv-contrib-python-headless==4.10.0.84
+av
+numpy
+Pillow
